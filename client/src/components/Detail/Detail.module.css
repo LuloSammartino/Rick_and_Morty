@@ -1,0 +1,28 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 600px;
+    border-radius: 50px;
+    border-color: red;
+    background-color: blueviolet;
+    margin-left: 270px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text{
+    display: column;
+    margin:50px;
+    padding:50px;
+}
+
+
+
+.img{
+    width: 500px;
+    height: 500px;
+    border-radius: 100px;
+    margin-top: 40px;
+    margin-left:100px
+}
